@@ -2,11 +2,11 @@
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- :telescope: I’m currently working on [pastebin-service](https://github.com/MaksimSyniu/pastebin-service)
+- :telescope: I’m currently working on [pastebin-service](https://github.com/MaksimSinyu/pastebin-service)
 
 - :seedling: I’m currently learning **Java**
 
-- :man_technologist: All of my projects are available at [github.com/MaksimSyniu](https://github.com/MaksimSyniu)
+- :man_technologist: All of my projects are available at [github.com/MaksimSinyu](https://github.com/MaksimSinyu)
 
 - :speech_balloon: Ask me about **Go, Java, Python, C++, FastAPI, Algorithms & Data structures**
 
