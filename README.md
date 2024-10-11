@@ -1,10 +1,6 @@
 <h1 align="center">Hi :wave:, I'm Maksym Syniuhin</h1>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
-- :telescope: I’m currently working on [pastebin-service](https://github.com/MaksimSinyu/pastebin-service)
-
-- :seedling: I’m currently learning **Java**
+<img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">=
 
 - :man_technologist: All of my projects are available at [github.com/MaksimSinyu](https://github.com/MaksimSinyu)
 
